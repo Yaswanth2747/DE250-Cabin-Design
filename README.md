@@ -99,7 +99,3 @@ This project involves designing a portable collapsible cabin for outdoor use. Th
 
 ---
 
-## Images
-
-- **[Cabin Design with Man for Scale](./A_portable_collapsible_cabin_design,_conical_frust.png)**
-- **[Concept Visualization](./A_portable_collapsible_cabin_design,_featuring_a_c.png)**
