@@ -4,6 +4,11 @@
 ## Abstract
 This project involves designing a portable collapsible cabin for outdoor use. The cabin has a conical frustum structure supported by aluminum telescopic rods arranged in a triangular truss pattern. The base is made of honeycomb polypropylene for lightweight strength, while the exterior uses military-grade waterproof fabric. The cabin is designed for easy assembly, portability, and weather resistance, offering a practical solution for temporary shelter.
 
+
+<p align="center">
+  <img src="./Presentation/Presentation Screen.gif" width="1000"/>
+</p>
+
 ---
 
 ## Dimensions
@@ -98,4 +103,43 @@ This project involves designing a portable collapsible cabin for outdoor use. Th
 - Optional solar panel integration provides off-grid power.
 
 ---
+
+## 📸 Design Process Snapshots
+
+<p align="center">
+  <img src="./Design Process/IMG-20250625-WA0012.jpg" width="300"/>
+  <img src="./Design Process/IMG-20250625-WA0013.jpg" width="300"/>
+  <img src="./Design Process/IMG-20250625-WA0014.jpg" width="300"/>
+  <img src="./Design Process/IMG-20250625-WA0015.jpg" width="300"/>
+  <img src="./Design Process/IMG-20250625-WA0016.jpg" width="300"/>
+  <img src="./Design Process/IMG-20250625-WA0017.jpg" width="300"/>
+  <img src="./Design Process/IMG-20250625-WA0018.jpg" width="300"/>
+  <img src="./Design Process/IMG-20250625-WA0019.jpg" width="300"/>
+  <img src="./Design Process/IMG-20250625-WA0020.jpg" width="300"/>
+  <img src="./Design Process/IMG-20250625-WA0021.jpg" width="300"/>
+  <img src="./Design Process/IMG-20250625-WA0022.jpg" width="300"/>
+  <img src="./Design Process/IMG-20250625-WA0023.jpg" width="300"/>
+</p>
+
+---
+
+## 🧾 Final Presentation & Poster
+
+- 📄 [Presentation Poster (PDF)](./Presentation/Presentation%20Poster.pdf)
+
+<p align="center">
+  <img src="./Presentation/A31.png" width="1000"/>
+  <img src="./Presentation/A32.png" width="1000"/>
+</p>
+
+## 👥 Teammates
+
+- **Parv Khandelwal**  
+- **Tanisha Hase**  
+- **Tanish Sahu**  
+- **Vishnu Bijarniya**  
+- **Yaswanth Ram Kumar**  
+- **Jay Patel**
+
+**Instructor:** Prof. Nishant Sharma
 
